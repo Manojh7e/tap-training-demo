@@ -1,5 +1,5 @@
-<h1>1.Learned about VCS
-</h1>
+1.Learned about VCS
+
 2.Learned about DVCS
 
 3.Learned about CVCS
